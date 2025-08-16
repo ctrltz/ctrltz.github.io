@@ -254,8 +254,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Kapralov]
-  first_name: [Nikolai]
+  last_name: [Kapralov, Kapralov*]
+  first_name: [N., N. V., Nikolai, Nikolai V., Nikolay V.]
 
   style: apa
   locale: en
@@ -300,6 +300,8 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    data,
+    demo,
     google_scholar_id,
     html,
     inspirehep_id,
