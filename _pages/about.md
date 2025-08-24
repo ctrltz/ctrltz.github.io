@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.cbs.mpg.de/employees/109781">Doctoral researcher</a> at the Max Planck Institute for Human Cognitive and Brain Sciences
+subtitle: Doctoral researcher at the <a href="https://www.cbs.mpg.de/employees/109781">Max Planck Institute for Human Cognitive and Brain Sciences</a>
 
 profile:
   align: right
@@ -23,3 +23,5 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+**Welcome** to my personal webpage! Here you can find an overview of my <a href="/projects/">projects</a> and <a href="/publications/">publications</a>. In addition, I plan to post thoughts and ideas about things I find interesting.
